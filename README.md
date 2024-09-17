@@ -17,7 +17,10 @@ Actualmente trabajo resolviendo problemas en la capa 8 del software de la empres
 - **2015-2015:** Primer contacto con la programación aprendiendo **HTML5**.
 - **2021-Actualidad:** Ingeniería en Sistemas @ UTN.
 - **2022-2023:** **DBA1** @ UTN.
-- **2024-Actualidad:** Desarrollo web @ UTN.
+- **2024-Actualidad:** **DBA2** @ UTN.
+- **2024-2024:** Desarrollo front-end @ UTN.
+  
+  
 
 ---
 
